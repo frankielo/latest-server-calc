@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+}
+
+textarea {
+    width: 20%;
+    vertical-align: middle;
+}
+
+button {
+width: 3rem;
+height: 2.3rem;
+margin-bottom: 0.5rem;
+
+}
